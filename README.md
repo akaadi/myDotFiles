@@ -1,2 +1,2 @@
-# myDotFiles
-# These are all my personal preferences.
+myDotFiles
+These are all my personal preferences.
